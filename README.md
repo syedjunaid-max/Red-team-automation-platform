@@ -192,6 +192,9 @@ Unauthorized scanning of websites or networks may violate laws and regulations.
 **Syed Aakif Zain**
 Computer Science & Design Engineering Student
 
+# 🤝 Contributer
+**Syed Junaid**
+Information Science & Engineering Student
 ---
 
 # ⭐ Future Improvements
